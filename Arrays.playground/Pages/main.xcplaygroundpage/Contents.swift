@@ -48,7 +48,7 @@
 
 
 /*: question5
- ### 5. Create a second array called 'desertList' with a type specified using and contains the string values "Cookie dough", "Icecream"
+ ### 5. Create a second array called 'dessertList' with a type specified using and contains the string values "Cookie dough", "Icecream"
  */
 // write your code here
 
